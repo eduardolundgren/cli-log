@@ -9,7 +9,7 @@ This project provides common log methods for your command line app.
 ## How to use:
 
 ``` javascript
-var  log = require("../lib/log").init({ prefix: '[app]', prefixColor: 'cyan', prefixBgColor: 'bgCyan' });
+var  log = require("cli-log").init({ prefix: '[app]', prefixColor: 'cyan', prefixBgColor: 'bgCyan' });
 
 log.log( "hello" );
 log.warn( "hello" );
