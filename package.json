@@ -8,6 +8,7 @@
         "web": "http://www.eduardolundgren.com",
         "twitter": "eduardolundgren"
     },
+    "main": "lib",
     "license": "BSD",
     "repository": {
         "type": "git",
