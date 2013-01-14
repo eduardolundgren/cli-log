@@ -1,0 +1,24 @@
+{
+    "name": "cli-log",
+    "description": "This project provides common log methods for command line.",
+    "version": "0.0.1",
+    "author": {
+        "name": "Eduardo Lundgren",
+        "email": "eduardo.lundgren@liferay.com",
+        "web": "http://www.eduardolundgren.com",
+        "twitter": "eduardolundgren"
+    },
+    "license": "BSD",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:eduardolundgren/cli-log.git"
+    },
+    "keywords": [
+        "git", "cli", "log", "cli-log", "external", "commands", "helpers"
+    ],
+    "dependencies": {
+        "cli-color": "*"
+    },
+    "engines": { "node": "*" },
+    "preferGlobal": "true"
+}
