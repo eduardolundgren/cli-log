@@ -1,7 +1,7 @@
 {
     "name": "cli-log",
     "description": "This project provides common log methods for command line.",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "author": {
         "name": "Eduardo Lundgren",
         "email": "eduardo.lundgren@liferay.com",
